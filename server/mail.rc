@@ -1,0 +1,7 @@
+set from=2532437535@qq.com
+set smtp=smtps://smtp.qq.com:465
+set smtp-auth-user=2532437535@qq.com
+set smtp-auth-password=客户端授权码  # 注意这里不是QQ密码，是邮箱开启SMTP后生成的授权码
+set smtp-auth=login
+set ssl-verify=ignore
+set nss-config-dir=/etc/pki/nssdb/
