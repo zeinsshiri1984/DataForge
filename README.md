@@ -1,2 +1,2 @@
 # DataForge
-备份服务
+最简单的备份服务, cron+mail+rsync
